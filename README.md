@@ -1,6 +1,6 @@
-# Oi, tudo bem? Chegou aqui através do curso, certo? 🙃
+# Desafio na Digital Innovation One
 
-Esse é o repositório da nossa aula de Flexbox, na qual vamos fazer a interface de login do Instagram! 
+Reconstruir a interface de login do Instagram com HTML e CSS ! 
 
 ### Os requisitos são:
 
